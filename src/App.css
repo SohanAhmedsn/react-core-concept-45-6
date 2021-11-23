@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.products{
+  background-color: #ffffff;
+  border: 5px solid #7100fa;
+  color: #000000;
+  margin: 15px;
+  border-radius: 20px;
+}
+
+.userName{
+  background-color: #ffffff;
+  color: black;
+  border: .5px solid crimson;
+}
